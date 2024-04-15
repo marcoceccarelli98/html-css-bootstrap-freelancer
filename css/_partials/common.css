@@ -77,6 +77,8 @@ section:nth-child(odd) {
     background-color: var(--mc-bg-aqua-green);
 }
 
+
+
 /* --- HEADER --- */
 header {
     background-color: var(--mc-bg-header);
