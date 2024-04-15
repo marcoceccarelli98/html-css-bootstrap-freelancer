@@ -10,6 +10,7 @@
     padding: 20px;
     background-color: black;
     color: white;
+    z-index: 1;
 }
 
 /*--------------------
@@ -88,4 +89,23 @@ main section:nth-child(odd) {
 /* --- HEADER --- */
 header {
     background-color: var(--mc-bg-header);
+}
+
+header h3 {
+    font-size: 1rem;
+}
+
+header i {
+    padding: 5px 15px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+header ul {
+    list-style-type: none;
+    margin: 0;
+    font-size: .9rem;
+    font-weight: 700;
+    letter-spacing: 0.1rem;
+    line-height: 30px;
 }
