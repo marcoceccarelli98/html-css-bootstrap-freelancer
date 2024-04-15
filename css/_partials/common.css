@@ -14,8 +14,8 @@
 }
 
 /*--------------------
-       COLORS
---------------------*/
+BACKGROUND CLASS UTILITY
+ --------------------*/
 .bg-footer-top {
     background-color: var(--mc-bg-top-footer);
 }
@@ -48,39 +48,14 @@
     background-color: var(--mc-bg-pic6);
 }
 
-
-/*--------------------
-       FIXED HEIGHT
---------------------*/
-/* HEIGHT */
-.h-100px {
-    height: 100px;
-}
-
-.h-200px {
-    height: 200px;
-}
-
-.h-300px {
-    height: 300px;
-}
-
-/* WIDTH */
-.w-100px {
-    width: 100px;
-}
-
-.w-200px {
-    width: 200px;
-}
-
-.w-300px {
-    width: 300px;
-}
-
 /*--------------------
        COMMON
 --------------------*/
+
+.container-text {
+    max-width: 65%;
+    margin: 0 auto;
+}
 
 main section:nth-child(odd) {
     background-color: var(--mc-bg-aqua-green);
@@ -127,4 +102,12 @@ header ul {
     overflow: hidden;
 }
 
-#portfolio img {}
+/* ABOUT */
+
+#about p {
+    color: white;
+    font-weight: 600;
+    font-size: 1.25rem;
+    letter-spacing: -.05rem;
+    line-height: 25px;
+}
