@@ -5,6 +5,16 @@
 :root {
 
   /* Backgrounds */
+  --mc-bg-header: #2C3E50;
+  --mc-bg-aqua-green: #1ABC9C;
+  --mc-bg-pic1: #BA4B63;
+  --mc-bg-pic2: #1EA4B6;
+  --mc-bg-pic3: #140F0F;
+  --mc-bg-pic4: #1C83C1;
+  --mc-bg-pic5: #0E38B5;
+  --mc-bg-pic6: #CCB2A3;
+  --mc-bg-top-footer: #3A546D;
+  --mc-bg-bottom-footer: #2C3E50;
 
   /* Colors */
 
