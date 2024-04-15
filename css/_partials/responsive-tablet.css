@@ -15,4 +15,9 @@
     h1 {
         font-size: 3rem;
     }
+
+    /* PORTFOLIO */
+    #portfolio .content-image {
+        height: 250px;
+    }
 }

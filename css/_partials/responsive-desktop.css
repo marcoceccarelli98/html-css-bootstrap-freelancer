@@ -6,6 +6,11 @@
         content: 'DESKTOP';
     }
 
+    /* PORTFOLIO */
+    #portfolio .content-image {
+        height: 200px;
+    }
+
 }
 
 /*--- DESKTOP XL ---*/
@@ -16,4 +21,8 @@
         content: 'DESKTOP XL';
     }
 
+    /* PORTFOLIO */
+    #portfolio .content-image {
+        height: 250px;
+    }
 }

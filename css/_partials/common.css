@@ -109,3 +109,22 @@ header ul {
     letter-spacing: 0.1rem;
     line-height: 30px;
 }
+
+/* JUMBOTRON */
+#jumbo img {
+    width: 250px;
+}
+
+/* PORTFOLIO */
+#portfolio .content-image {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    height: 300px;
+    width: 100%;
+    border-radius: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+#portfolio img {}
