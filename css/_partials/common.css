@@ -45,7 +45,7 @@
        COMMON
 --------------------*/
 
-main:nth-child(even) {
+section:nth-child(odd) {
     background-color: var(--mc-bg-aqua-green);
 }
 
@@ -55,3 +55,12 @@ header {
 }
 
 /* JUMBO */
+
+
+
+/* PORTFOLIO */
+.card {
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: var(--mc-bg-pic1);
+}
