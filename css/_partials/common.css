@@ -13,10 +13,45 @@
 }
 
 /*--------------------
+       FIXED HEIGHT
+--------------------*/
+/* HEIGHT */
+.h-100px {
+    height: 100px;
+}
+
+.h-200px {
+    height: 200px;
+}
+
+.h-300px {
+    height: 300px;
+}
+
+/* WIDTH */
+.w-100px {
+    width: 100px;
+}
+
+.w-200px {
+    width: 200px;
+}
+
+.w-300px {
+    width: 300px;
+}
+
+/*--------------------
        COMMON
 --------------------*/
+
+main:nth-child(even) {
+    background-color: var(--mc-bg-aqua-green);
+}
 
 /* --- HEADER --- */
 header {
     background-color: var(--mc-bg-header);
 }
+
+/* JUMBO */
