@@ -1,0 +1,19 @@
+/*--- DESKTOP ---*/
+@media screen and (min-width: 992px) {
+
+    /* DEBUG */
+    .debug main::after {
+        content: 'DESKTOP';
+    }
+
+}
+
+/*--- DESKTOP XL ---*/
+@media screen and (min-width: 1200px) {
+
+    /* DEBUG */
+    .debug main::after {
+        content: 'DESKTOP XL';
+    }
+
+}
