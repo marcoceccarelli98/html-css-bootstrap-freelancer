@@ -13,6 +13,34 @@
 }
 
 /*--------------------
+       COLORS
+--------------------*/
+.bg-pic1 {
+    background-color: var(--mc-bg-pic1);
+}
+
+.bg-pic2 {
+    background-color: var(--mc-bg-pic2);
+}
+
+.bg-pic3 {
+    background-color: var(--mc-bg-pic3);
+}
+
+.bg-pic4 {
+    background-color: var(--mc-bg-pic4);
+}
+
+.bg-pic5 {
+    background-color: var(--mc-bg-pic5);
+}
+
+.bg-pic6 {
+    background-color: var(--mc-bg-pic6);
+}
+
+
+/*--------------------
        FIXED HEIGHT
 --------------------*/
 /* HEIGHT */
@@ -59,8 +87,3 @@ header {
 
 
 /* PORTFOLIO */
-.card {
-    margin-bottom: 20px;
-    text-align: center;
-    background-color: var(--mc-bg-pic1);
-}
