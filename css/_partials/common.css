@@ -15,6 +15,14 @@
 /*--------------------
        COLORS
 --------------------*/
+.bg-footer-top {
+    background-color: var(--mc-bg-top-footer);
+}
+
+.bg-footer-bottom {
+    background-color: var(--mc-bg-bottom-footer);
+}
+
 .bg-pic1 {
     background-color: var(--mc-bg-pic1);
 }
@@ -73,19 +81,11 @@
        COMMON
 --------------------*/
 
-section:nth-child(odd) {
+main section:nth-child(odd) {
     background-color: var(--mc-bg-aqua-green);
 }
-
-
 
 /* --- HEADER --- */
 header {
     background-color: var(--mc-bg-header);
 }
-
-/* JUMBO */
-
-
-
-/* PORTFOLIO */
