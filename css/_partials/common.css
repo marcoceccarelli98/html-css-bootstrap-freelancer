@@ -48,6 +48,10 @@
     background-color: var(--mc-bg-pic6);
 }
 
+.bg-aqua-green {
+    background-color: var(--mc-bg-aqua-green);
+}
+
 .text-aqua-green {
     color: var(--mc-bg-aqua-green);
 }
@@ -121,4 +125,11 @@ header ul {
     font-size: 1.25rem;
     letter-spacing: -.05rem;
     line-height: 25px;
+}
+
+::placeholder {
+    color: black;
+    font-weight: normal;
+    opacity: 1;
+    margin-left: 0;
 }
