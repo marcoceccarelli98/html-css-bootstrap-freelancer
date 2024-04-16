@@ -6,6 +6,10 @@
         content: 'TABLET';
     }
 
+    h2 {
+        font-size: 3rem;
+    }
+
     /* HEADER */
     header .navbar-brand {
         font-size: 1.5rem;

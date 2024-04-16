@@ -1,4 +1,13 @@
-/* SEPARATOR */
+/*--------------------
+      SEPARATOR
+--------------------*/
+
+:root {
+    --mc-separator-width: 40%;
+    --mc-separator-height: 5px;
+    --mc-separator-color: #140F0F;
+}
+
 .mc-separator {
     margin: 0 auto;
     display: flex;
