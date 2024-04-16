@@ -2,7 +2,9 @@
 @media screen and (min-width: 768px) {
 
     /* COMMON */
-
+    :root {
+        --mc-separator-width: 50%;
+    }
 
     /* JUMBOTRON */
     h1 {

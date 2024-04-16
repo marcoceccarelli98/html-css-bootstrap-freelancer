@@ -18,4 +18,8 @@
 
   /* Colors */
 
+  /* --- SEPARATOR --- */
+  --mc-separator-width: 30%;
+  --mc-separator-height: 5px;
+  --mc-separator-color: #140F0F;
 }

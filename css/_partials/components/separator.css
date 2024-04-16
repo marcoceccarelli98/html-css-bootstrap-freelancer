@@ -1,0 +1,14 @@
+/* SEPARATOR */
+.mc-separator {
+    margin: 0 auto;
+    display: flex;
+    width: var(--mc-separator-width);
+    color: var(--mc-separator-color);
+}
+
+.mc-separator .line {
+    border-color: var(--mc-separator-color);
+    border-width: var(--mc-separator-height);
+    border-radius: 3px;
+    opacity: 1;
+}
