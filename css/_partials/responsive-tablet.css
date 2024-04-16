@@ -1,13 +1,8 @@
-/*--- TABLET ---*/
+/*--- MOBILE 2 ---*/
 @media screen and (min-width: 768px) {
 
     /* COMMON */
 
-
-    /* HEADER */
-    header h3 {
-        font-size: 1.5rem;
-    }
 
     /* JUMBOTRON */
     h1 {

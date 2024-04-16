@@ -1,9 +1,14 @@
-/*--- DESKTOP ---*/
+/*--- TABLET ---*/
 @media screen and (min-width: 992px) {
 
     /* DEBUG */
     .debug header::after {
         content: 'TABLET';
+    }
+
+    /* HEADER */
+    header .navbar-brand {
+        font-size: 1.5rem;
     }
 
     /* PORTFOLIO */

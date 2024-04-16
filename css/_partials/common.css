@@ -75,7 +75,7 @@ header {
     background-color: var(--mc-bg-header);
 }
 
-header h3 {
+header .navbar-brand {
     font-size: 1rem;
 }
 
