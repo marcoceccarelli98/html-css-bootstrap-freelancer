@@ -14,7 +14,7 @@
 }
 
 /*--------------------
-BACKGROUND CLASS UTILITY
+ COLORS CLASSES UTILITY
  --------------------*/
 .bg-footer-top {
     background-color: var(--mc-bg-top-footer);
@@ -48,6 +48,10 @@ BACKGROUND CLASS UTILITY
     background-color: var(--mc-bg-pic6);
 }
 
+.text-aqua-green {
+    color: var(--mc-bg-aqua-green);
+}
+
 /*--------------------
        COMMON
 --------------------*/
@@ -55,6 +59,11 @@ BACKGROUND CLASS UTILITY
 .container-text {
     max-width: 65%;
     margin: 0 auto;
+}
+
+.content-icon {
+    height: 50px;
+    width: 50px;
 }
 
 main section:nth-child(odd) {
@@ -85,6 +94,8 @@ header ul {
     line-height: 30px;
 }
 
+/* --- MAIN --- */
+
 /* JUMBOTRON */
 #jumbo img {
     width: 250px;
@@ -111,3 +122,8 @@ header ul {
     letter-spacing: -.05rem;
     line-height: 25px;
 }
+
+/* --- FOOTER --- */
+/* footer i {
+    border: 1px solid white;
+} */
