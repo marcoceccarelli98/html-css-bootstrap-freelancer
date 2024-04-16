@@ -1,11 +1,6 @@
 /*--- TABLET ---*/
 @media screen and (min-width: 768px) {
 
-    /* DEBUG */
-    .debug header::after {
-        content: 'TABLET';
-    }
-
     /* COMMON */
 
 

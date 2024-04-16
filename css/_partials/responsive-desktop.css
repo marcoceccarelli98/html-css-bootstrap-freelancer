@@ -3,7 +3,7 @@
 
     /* DEBUG */
     .debug header::after {
-        content: 'DESKTOP';
+        content: 'TABLET';
     }
 
     /* PORTFOLIO */
@@ -18,7 +18,7 @@
 
     /* DEBUG */
     .debug header::after {
-        content: 'DESKTOP XL';
+        content: 'DESKTOP';
     }
 
     /* PORTFOLIO */
